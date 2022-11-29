@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CssPxToEm": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\temp\\test.css\r\n"
+    }
+  }
+}
